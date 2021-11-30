@@ -1,7 +1,7 @@
 # L6
 Зубова Евгения 803в1
 Добавляем поле EditText тип textMultiLine и 2 кнопки
-
+![image](https://user-images.githubusercontent.com/73265788/143987833-c77a492f-75ab-4ac3-af79-19ce51f5d707.png)
 
 ....
   Activity_main.xml
@@ -95,7 +95,7 @@
 
 
 Результат
-![image](https://user-images.githubusercontent.com/73265788/143987520-984a4be4-a1e8-46d8-abf9-6f360b5b9ebb.png)
+
 
 
 
