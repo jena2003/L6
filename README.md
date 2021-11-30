@@ -96,7 +96,9 @@
 
 Результат
 
+![image](https://user-images.githubusercontent.com/73265788/143987979-5c5e5330-4608-4348-98a7-556757faadca.png)
 
+![image](https://user-images.githubusercontent.com/73265788/143988000-b80647d8-3276-4aba-97b0-6b42f582630c.png)
 
 
 
