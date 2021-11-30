@@ -2,7 +2,7 @@
 Зубова Евгения 803в1
 Добавляем поле EditText тип textMultiLine и 2 кнопки
 
-![image](https://user-images.githubusercontent.com/73265788/143987265-f623a3e7-5551-40bd-a7cf-541811f3fb53.png)
+
 ....
   Activity_main.xml
   <EditText
